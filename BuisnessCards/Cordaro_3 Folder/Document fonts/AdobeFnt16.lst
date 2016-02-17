@@ -1,0 +1,326 @@
+%!Adobe-FontList 1.16
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Bombardier
+FamilyName:Bombardier
+StyleName:Regular
+FullName:Bombardier
+MenuName:Bombardier
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Chris\Desktop\Cordaro_3 Folder\Document fonts\BOMBARD.ttf
+DataFormat:sfntData
+FileLength:25864
+FileModTime:1035061122
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,Bombardier
+NameArray:0,Mac,4,Bombardier
+NameArray:0,Win,1,Bombardier
+NameArray:0,Win,16,Bombardier
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Chelsea
+FamilyName:Chelsea
+StyleName:Regular
+FullName:Chelsea
+MenuName:Chelsea
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Chris\Desktop\Cordaro_3 Folder\Document fonts\Chelsea.ttf
+DataFormat:sfntData
+FileLength:19204
+FileModTime:1353967746
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Chelsea
+NameArray:0,Win,1,Chelsea
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Couture-Bold
+FamilyName:Couture
+StyleName:Bold
+FullName:Couture Bold
+MenuName:Couture
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\Chris\Desktop\Cordaro_3 Folder\Document fonts\couture-bld.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:6196
+FileModTime:1403962260
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Couture Bold
+NameArray:0,Win,1,Couture
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:ChocolateBox
+FamilyName:ChocolateBox
+StyleName:Regular
+FullName:ChocolateBox
+MenuName:ChocolateBox
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Chris\Desktop\Cordaro_3 Folder\Document fonts\C_BOX.TTF
+DataFormat:sfntData
+FileLength:35680
+FileModTime:1278599680
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,ChocolateBox
+NameArray:0,Win,1,ChocolateBox
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Draconis
+FamilyName:Draconis
+StyleName:Regular
+FullName:Draconis
+MenuName:Draconis
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Chris\Desktop\Cordaro_3 Folder\Document fonts\Draconis.otf
+DataFormat:sfntData
+FileLength:31860
+FileModTime:1453394450
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,Draconis-Regular
+NameArray:0,Mac,4,Draconis
+NameArray:0,Win,1,Draconis
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Dropyouranchor-Regular
+FamilyName:Drop your anchor
+StyleName:Regular
+FullName:Drop your anchor Regular
+MenuName:Drop your anchor
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Chris\Desktop\Cordaro_3 Folder\Document fonts\Drop your anchor.ttf
+DataFormat:sfntData
+FileLength:42012
+FileModTime:1385417422
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Drop your anchor Regular
+NameArray:0,Win,1,Drop your anchor
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Jonah_DEMO-Regular
+FamilyName:Jonah_DEMO
+StyleName:Regular
+FullName:Jonah_DEMO-Regular
+MenuName:Jonah_DEMO
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Chris\Desktop\Cordaro_3 Folder\Document fonts\Jonah_DEMO-Regular.ttf
+DataFormat:sfntData
+FileLength:21208
+FileModTime:1445284334
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Jonah_DEMO
+NameArray:0,Win,1,Jonah_DEMO
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:KalocsaiFlowers
+FamilyName:Kalocsai Flowers
+StyleName:Regular
+FullName:Kalocsai Flowers
+MenuName:Kalocsai Flowers
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Chris\Desktop\Cordaro_3 Folder\Document fonts\KALOF__.TTF
+DataFormat:sfntData
+FileLength:32016
+FileModTime:992519712
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Kalocsai Flowers
+NameArray:0,Win,1,Kalocsai Flowers
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+FullName:Minion Pro
+MenuName:Minion Pro
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Chris\Desktop\Cordaro_3 Folder\Document fonts\MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:218640
+FileModTime:1432861536
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:110
+NameArray:0,Mac,4,Minion Pro
+NameArray:0,Win,1,Minion Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Modern-Regular
+FamilyName:Modern No. 20
+StyleName:Regular
+FullName:Modern No. 20
+MenuName:Modern No. 20
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Chris\Desktop\Cordaro_3 Folder\Document fonts\MOD20.TTF
+DataFormat:sfntData
+FileLength:62612
+FileModTime:1348942278
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Modern No. 20
+NameArray:0,Win,1,Modern No. 20
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Mr-Men
+FamilyName:Mr Men
+StyleName:Regular
+FullName:Mr Men
+MenuName:Mr Men
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Chris\Desktop\Cordaro_3 Folder\Document fonts\Mrmen.ttf
+DataFormat:sfntData
+FileLength:26004
+FileModTime:1098045330
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,New
+NameArray:0,Win,1,Mr Men
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:OptimusPrinceps
+FamilyName:OptimusPrinceps
+StyleName:Regular
+FullName:OptimusPrinceps
+MenuName:OptimusPrinceps
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Chris\Desktop\Cordaro_3 Folder\Document fonts\OptimusPrinceps.ttf
+DataFormat:sfntData
+FileLength:41416
+FileModTime:1098302522
+WeightClass:500
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,OptimusPrinceps
+NameArray:0,Win,1,OptimusPrinceps
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Social-Shapes
+FamilyName:Social Shapes
+StyleName:Regular
+FullName:Social Shapes
+MenuName:Social Shapes
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Chris\Desktop\Cordaro_3 Folder\Document fonts\social_shapes.ttf
+DataFormat:sfntData
+FileLength:61548
+FileModTime:1442513166
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Social Shapes
+NameArray:0,Win,1,Social Shapes
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:TimesNewRomanPSMT
+FamilyName:Times New Roman
+StyleName:Regular
+FullName:Times New Roman
+MenuName:Times New Roman
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Chris\Desktop\Cordaro_3 Folder\Document fonts\times.ttf
+DataFormat:sfntData
+FileLength:1006088
+FileModTime:1446185879
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Times New Roman
+NameArray:0,Win,1,Times New Roman
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:TimesNewRomanPS-BoldMT
+FamilyName:Times New Roman
+StyleName:Bold
+FullName:Times New Roman Bold
+MenuName:Times New Roman
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\Chris\Desktop\Cordaro_3 Folder\Document fonts\timesbd.ttf
+DataFormat:sfntData
+FileLength:991536
+FileModTime:1446185879
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Times New Roman Bold
+NameArray:0,Win,1,Times New Roman
+%EndFont
+
